@@ -1,26 +1,44 @@
+
 # Google Cloud Infrastructure Engineering Portfolio
 
-A collection of hands-on Google Cloud infrastructure engineering projects.
+Welcome to my Google Cloud Infrastructure Engineering portfolio.
+
+This repository showcases hands-on implementations, infrastructure designs, automation, security practices, and reliability engineering solutions built using Google Cloud Platform.
 
 ## Technical Focus
 
-- Google Cloud Platform
-- Terraform and Infrastructure as Code
-- VPC and Cloud Networking
-- Compute Engine and Load Balancing
-- Google Kubernetes Engine
-- IAM and Cloud Security
-- Cloud Monitoring and Logging
-- Backup and Disaster Recovery
+- Google Cloud Platform (GCP)
+- Terraform & Infrastructure as Code
+- VPC & Cloud Networking
+- Compute Engine & Load Balancing
+- Google Kubernetes Engine (GKE)
+- IAM & Cloud Security
+- Cloud Monitoring & Logging
+- Backup & Disaster Recovery
+- Cloud Cost Optimization
 
 ## Featured Projects
 
-1. Enterprise GCP Infrastructure
-2. Terraform Automation
-3. GKE Platform Engineering
-4. GCP Security Assessment
-5. Cloud Reliability
-6. Disaster Recovery
+| Project | Focus |
+|---|---|
+| 01 | Enterprise GCP Infrastructure |
+| 02 | Terraform Automation |
+| 03 | GKE Platform Engineering |
+| 04 | GCP Security Assessment |
+| 05 | Cloud Reliability |
+| 06 | Disaster Recovery |
+
+## Engineering Approach
+
+- Real-world infrastructure requirements
+- Scalable and secure architecture
+- Infrastructure automation
+- Operational troubleshooting
+- Cost and reliability considerations
+- Technical documentation
+
+## Disclaimer
 
 All implementations are independently developed demonstration projects.
-No confidential customer information or production credentials are included.
+
+No confidential customer information, credentials, or proprietary company configurations are included.
